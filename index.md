@@ -16,3 +16,7 @@ Vi ska tillsammans träna på att granska en systematisk översikt.
 - Läs instruktionerna.
 - Öppna artikeln.
 - Arbeta i mindre grupper.
+
+## Övningar
+
+[Börja med övning 1 →](ovning-1.html)
